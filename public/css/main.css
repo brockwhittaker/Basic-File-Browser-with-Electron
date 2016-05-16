@@ -1,0 +1,8 @@
+* {
+  font-family: Lato;
+}
+
+#file_system .file {
+  font-weight: 300;
+  cursor: pointer;
+}
